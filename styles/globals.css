@@ -96,7 +96,8 @@ body {
 }
 
 a {
-  color: inherit;
+  /* color: inherit; */
+  color: #0070F3;
   text-decoration: none;
 }
 
